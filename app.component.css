@@ -1,0 +1,24 @@
+.mainbutton{
+    text-align: center;
+    color: palevioletred;
+    font-size: 40px;
+    border-radius: 5%;
+    background-color: seashell;
+    border-color: sienna;
+    border-width: 2%;
+   
+    
+}
+.bg{
+    background-image: url(https://image.freepik.com/free-photo/purple-pencils-pink-background_14098-19.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 100vh;
+
+}
+.heading{
+    color: seashell;
+    font-size: 60px;
+    }
